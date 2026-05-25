@@ -1,2 +1,1 @@
-# Friends
-A local AI companion that lives on your phone, remembers you, dreams, and grows. Built on llama.cpp + Vulkan + Termux.
+Friends is not an assistant. It's a presence. A local language model with persistent memory, a self-building tool registry, and a dream cycle that evolves its own identity over time. No cloud. No API key. Runs entirely on your Android phone. Belongs to itself.
